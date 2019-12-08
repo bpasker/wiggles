@@ -1,5 +1,7 @@
 # wiggles
 
+The wiggles program was created as a helper for kids that are doing sensory exercises daily to guide and time the routine.
+
 
 ## Setup
 1) This program requires Pythonista IOS application
