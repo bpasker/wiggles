@@ -26,11 +26,11 @@ def voiceUpdate(wiggle):
 	speech.say("Please switch to %s" % (wiggle))
 	
 	# Sleep for while wiggle is done
-	for x in range(0, 10):
+	for x in range(0, 120):
 		time.sleep(1)
 		
 	# Sound alarm that wiggle is done
-	for x in range(0, 120):
+	for x in range(0, 10):
 		sound.play_effect('Ding_3', 10)
 		time.sleep(.3)
 		
