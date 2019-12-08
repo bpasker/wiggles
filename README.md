@@ -1,13 +1,12 @@
 # wiggles
 
-This program requires Pythonista IOS application
+
+## Setup
+1) This program requires Pythonista IOS application
 
 http://omz-software.com/pythonista/
 
-
-## Setup
-
-Import wiggles.py
+2) Import wiggles.py
 
 ### Shortcut
 
