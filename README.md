@@ -5,11 +5,11 @@ This program requires Pythonista IOS application
 http://omz-software.com/pythonista/
 
 
-Setup
+## Setup
 
 Import wiggles.py
 
-Shortcut
+### Shortcut
 
 I have created a shortcut via IOS shortcut. The pythonista add to home screen had bugs relaunching the app so I recommend using the built in shortcuts app
 
